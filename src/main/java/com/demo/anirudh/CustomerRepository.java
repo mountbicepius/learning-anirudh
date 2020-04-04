@@ -1,4 +1,4 @@
-package com.demo.aniudh;
+package com.demo.anirudh;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

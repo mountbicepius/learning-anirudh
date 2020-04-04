@@ -1,0 +1,6 @@
+com/demo/anirudh/Customer.class
+com/demo/anirudh/CustomerEditor.class
+com/demo/anirudh/CustomerEditor$ChangeHandler.class
+com/demo/anirudh/CustomerRepository.class
+com/demo/anirudh/MainView.class
+com/demo/anirudh/CrudWithVaadinApplication.class
