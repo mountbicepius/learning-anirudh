@@ -11,7 +11,7 @@ import com.vaadin.flow.router.Route;
 import com.vaadin.flow.spring.annotation.UIScope;
 import org.springframework.util.StringUtils;
 
-@Route
+@Route("entries")
 public class MainView extends VerticalLayout {
 
 	private final CustomerRepository repo;

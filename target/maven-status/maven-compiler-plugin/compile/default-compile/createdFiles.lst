@@ -3,5 +3,6 @@ com/demo/anirudh/MainController.class
 com/demo/anirudh/CrudWithVaadinApplication.class
 com/demo/anirudh/Customer.class
 com/demo/anirudh/CustomerEditor.class
+com/demo/anirudh/HomeController.class
 com/demo/anirudh/CustomerRepository.class
 com/demo/anirudh/MainView.class
